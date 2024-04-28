@@ -1,0 +1,1160 @@
+[
+  {
+    "name": "Front Handpsring",
+    "cop_number": 1.0,
+    "apparatus": "VT",
+    "description": "Handspring fwd",
+    "vault_difficulty_value": 1.6,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 1,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Front Handspring 1/2",
+    "cop_number": 1.01,
+    "apparatus": "VT",
+    "description": "Handspring fwd on \u2013 \u00bd turn (180\u00b0) off",
+    "vault_difficulty_value": 2.0,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 1,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Front Handspring 1/1",
+    "cop_number": 1.02,
+    "apparatus": "VT",
+    "description": "Handspring fwd on \u2013 1/1 turn (360\u00b0) off",
+    "vault_difficulty_value": 2.6,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 1,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Kim",
+    "cop_number": 1.03,
+    "apparatus": "VT",
+    "description": "Handspring fwd on \u2013 1\u00bd turn (540\u00b0) off",
+    "vault_difficulty_value": 3.2,
+    "named_after_wag": [
+      {
+        "last_name": "Kim",
+        "first_name": "Nellie",
+        "federation": "USSR"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 1,
+    "discipline": "WAG",
+    "year_named": 1975.0
+  },
+  {
+    "name": "Front Handspring 2/1",
+    "cop_number": 1.04,
+    "apparatus": "VT",
+    "description": "Handspring fwd on \u2013 2/1 turn (720\u00b0) off",
+    "vault_difficulty_value": 3.6,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 1,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Front Handspring 5/2",
+    "cop_number": 1.05,
+    "apparatus": "VT",
+    "description": "Handspring fwd on \u2013 2\u00bd turn (900\u00b0) off",
+    "vault_difficulty_value": 4.0,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 1,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Yamashita",
+    "cop_number": 1.1,
+    "apparatus": "VT",
+    "description": "Handspring fwd with pike during flight",
+    "vault_difficulty_value": 2.0,
+    "named_after_wag": null,
+    "named_after_mag": [
+      {
+        "last_name": "Yamashita",
+        "first_name": "Haruhiro",
+        "federation": "JPN"
+      }
+    ],
+    "group_number": 1,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Yamashita 1/2",
+    "cop_number": 1.11,
+    "apparatus": "VT",
+    "description": "Yamashita with \u00bd turn (180\u00b0) off",
+    "vault_difficulty_value": 2.4,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 1,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Yamashita 1/1",
+    "cop_number": 1.12,
+    "apparatus": "VT",
+    "description": "Yamashita with 1/1 turn (360\u00b0) off",
+    "vault_difficulty_value": 2.8,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 1,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Handspring 1/2-on",
+    "cop_number": 1.2,
+    "apparatus": "VT",
+    "description": "Handspring fwd with \u00bd turn (180\u00b0) on \u2013 repulsion off",
+    "vault_difficulty_value": 1.6,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 1,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Handspring 1/2-on 1/2-off",
+    "cop_number": 1.21,
+    "apparatus": "VT",
+    "description": "Handspring fwd with \u00bd turn (180\u00b0) on \u2013 \u00bd turn (180\u00b0) off (in either direction)",
+    "vault_difficulty_value": 2.4,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 1,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Handspring 1/2-on 1/1-off",
+    "cop_number": 1.22,
+    "apparatus": "VT",
+    "description": "Handspring fwd with \u00bd turn (180\u00b0) on \u2013 1/1 turn (360\u00b0) off",
+    "vault_difficulty_value": 2.6,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 1,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Handspring 1/2-on 3/2",
+    "cop_number": 1.23,
+    "apparatus": "VT",
+    "description": "Handspring fwd with \u00bd turn (180\u00b0) on \u2013 1\u00bd turn (540\u00b0) off",
+    "vault_difficulty_value": 3.2,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 1,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Handspring 1/2-on 2/1",
+    "cop_number": 1.24,
+    "apparatus": "VT",
+    "description": "Handspring fwd with \u00bd turn (180\u00b0) on \u2013 2/1 turn (720\u00b0) off",
+    "vault_difficulty_value": 3.6,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 1,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Handspring 1/1-on",
+    "cop_number": 1.3,
+    "apparatus": "VT",
+    "description": "Handspring fwd with 1/1 turn (360\u00b0) on \u2013 Handspring fwd off",
+    "vault_difficulty_value": 3.2,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 1,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Korbut",
+    "cop_number": 1.31,
+    "apparatus": "VT",
+    "description": "Handspring fwd with 1/1 turn (360\u00b0) on \u2013 1/1 turn (360\u00b0) off (Korbut)",
+    "vault_difficulty_value": 3.6,
+    "named_after_wag": [
+      {
+        "last_name": "Korbut",
+        "first_name": "Olga",
+        "federation": "USSR"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 1,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Round-off Flic-flac",
+    "cop_number": 1.4,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac on \u2013 repulsion off",
+    "vault_difficulty_value": 2.0,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 1,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Round-off Flic-flac 1/2-on",
+    "cop_number": 1.5,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac with \u00bd turn (180\u00b0) on \u2013 Handspring fwd off",
+    "vault_difficulty_value": 2.2,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 1,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Round-off 1/2-on 1/2-off",
+    "cop_number": 1.51,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac with \u00bd turn (180\u00b0) on \u2013\u00bd turn (180\u00b0) off",
+    "vault_difficulty_value": 2.6,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 1,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Round-off 1/2-on 1/1-off",
+    "cop_number": 1.52,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac with \u00bd turn (180\u00b0) on \u2013 1/1 turn (360\u00b0) off",
+    "vault_difficulty_value": 3.0,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 1,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Round-off 1/2-on 3/2-off",
+    "cop_number": 1.53,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac with \u00bd turn (180\u00b0) on \u2013 1\u00bd turn (540\u00b0) off",
+    "vault_difficulty_value": 3.4,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 1,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Round-off 1/1-on",
+    "cop_number": 1.6,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac with 1/1 turn (360\u00b0) on \u2013 repulsion off",
+    "vault_difficulty_value": 2.4,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 1,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Round-off 1/1-on 1/2",
+    "cop_number": 1.61,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac with 1/1 turn (360\u00b0) on \u2013 \u00bd turn (180\u00b0) off",
+    "vault_difficulty_value": 2.8,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 1,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Round-off 1/1-on 1/1",
+    "cop_number": 1.62,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac with 1/1 turn (360\u00b0) on \u20131/1 turn (360\u00b0) off",
+    "vault_difficulty_value": 3.2,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 1,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Front Handspring Front Tuck",
+    "cop_number": 2.1,
+    "apparatus": "VT",
+    "description": "Handspring fwd on \u2013 tucked salto fwd off",
+    "vault_difficulty_value": 3.6,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 2,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Front Handspring Front Tuck 1/2",
+    "cop_number": 2.11,
+    "apparatus": "VT",
+    "description": "Handspring fwd on \u2013 tucked salto fwd with \u00bd twist (180\u00b0) off, also \u2013 \u00bd turn (180\u00b0) and tucked salto bwd off",
+    "vault_difficulty_value": 3.8,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 2,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Front Handspring Front Tuck 1/1",
+    "cop_number": 2.12,
+    "apparatus": "VT",
+    "description": "Handspring fwd on \u2013 tucked salto fwd with 1/1 twist (360\u00b0) off",
+    "vault_difficulty_value": 4.2,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 2,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Front Handpsring Front Tuck 3/2",
+    "cop_number": 2.13,
+    "apparatus": "VT",
+    "description": "Handspring fwd on \u2013 tucked salto fwd with 1\u00bd twist (540\u00b0) off",
+    "vault_difficulty_value": 4.6,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 2,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Front Handspring Front Pike",
+    "cop_number": 2.2,
+    "apparatus": "VT",
+    "description": "Handspring fwd on \u2013 piked salto fwd off",
+    "vault_difficulty_value": 3.8,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 2,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Front Handspring Front Pike 1/2",
+    "cop_number": 2.21,
+    "apparatus": "VT",
+    "description": "Handspring fwd on \u2013 piked salto fwd with \u00bd twist (180\u00b0) off, also \u2013 \u00bd turn (180\u00b0) and piked salto bwd off",
+    "vault_difficulty_value": 4.0,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 2,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Chusovitina I",
+    "cop_number": 2.22,
+    "apparatus": "VT",
+    "description": "Handspring fwd on \u2013 piked salto fwd with 1/1 twist (360\u00b0) off (Chusovitina)",
+    "vault_difficulty_value": 4.4,
+    "named_after_wag": [
+      {
+        "last_name": "Chusovitina",
+        "first_name": "Oksana",
+        "federation": "UZB"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 2,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Evdokimova",
+    "cop_number": 2.3,
+    "apparatus": "VT",
+    "description": "Handspring fwd on \u2013 stretched salto fwd off",
+    "vault_difficulty_value": 4.4,
+    "named_after_wag": [
+      {
+        "last_name": "Evdokimova",
+        "first_name": "Irina",
+        "federation": "KAZ"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 2,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Wang",
+    "cop_number": 2.31,
+    "apparatus": "VT",
+    "description": "Handspring fwd on \u2013 stretched salto fwd with \u00bd twist (180\u00b0) off",
+    "vault_difficulty_value": 4.6,
+    "named_after_wag": [
+      {
+        "last_name": "Huiying",
+        "first_name": "Wang",
+        "federation": "CHN"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 2,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Front Handspring Front Layout 1/1",
+    "cop_number": 2.32,
+    "apparatus": "VT",
+    "description": "Handspring fwd on \u2013 stretched salto fwd with 1/1 twist (360\u00b0) off",
+    "vault_difficulty_value": 5.0,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 2,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Chusovitina II",
+    "cop_number": 2.33,
+    "apparatus": "VT",
+    "description": "Handspring fwd on \u2013 stretched salto fwd with 1\u00bd twist (540\u00b0) off",
+    "vault_difficulty_value": 5.4,
+    "named_after_wag": [
+      {
+        "last_name": "Chusovitina",
+        "first_name": "Oksana",
+        "federation": "UZB"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 2,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Yeo",
+    "cop_number": 2.34,
+    "apparatus": "VT",
+    "description": "Handspring fwd on \u2013 stretched salto fwd with 2/1 twist (720\u00b0) off",
+    "vault_difficulty_value": 5.8,
+    "named_after_wag": [
+      {
+        "last_name": "Seojeong",
+        "first_name": "Yeo",
+        "federation": "KOR"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 2,
+    "discipline": "WAG",
+    "year_named": 2019.0
+  },
+  {
+    "name": "Davydova",
+    "cop_number": 2.4,
+    "apparatus": "VT",
+    "description": "Handspring fwd with 1/1 turn (360\u00b0) on \u2013 tucked salto fwd off",
+    "vault_difficulty_value": 4.8,
+    "named_after_wag": [
+      {
+        "last_name": "Davydova",
+        "first_name": "Elena",
+        "federation": "USSR"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 2,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Front Handspring 1/1-on Pike",
+    "cop_number": 2.41,
+    "apparatus": "VT",
+    "description": "Handspring fwd with 1/1 turn (360\u00b0) on \u2013 piked salto fwd off",
+    "vault_difficulty_value": 5.2,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 2,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Produnova",
+    "cop_number": 2.5,
+    "apparatus": "VT",
+    "description": "Handspring fwd on \u2013 tucked double salto fwd off",
+    "vault_difficulty_value": 6.0,
+    "named_after_wag": [
+      {
+        "last_name": "Prodounova",
+        "first_name": "Elena",
+        "federation": "RUS"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 2,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Tourischeva",
+    "cop_number": 3.1,
+    "apparatus": "VT",
+    "description": "Tsukahara tucked",
+    "vault_difficulty_value": 3.2,
+    "named_after_wag": [
+      {
+        "last_name": "Tourischeva",
+        "first_name": "Liudmila",
+        "federation": "USSR"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 3,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Tsukahara Tucked 1/2",
+    "cop_number": 3.11,
+    "apparatus": "VT",
+    "description": "Tsukahara tucked with \u00bd twist (180\u00b0) off",
+    "vault_difficulty_value": 3.4,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 3,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Kim II",
+    "cop_number": 3.12,
+    "apparatus": "VT",
+    "description": "Tsukahara tucked with 1/1 twist (360\u00b0) off",
+    "vault_difficulty_value": 3.8,
+    "named_after_wag": [
+      {
+        "last_name": "Kim",
+        "first_name": "Nellie",
+        "federation": "USSR"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 3,
+    "discipline": "WAG",
+    "year_named": 1976.0
+  },
+  {
+    "name": "Tsukahara Tucked 3/2",
+    "cop_number": 3.13,
+    "apparatus": "VT",
+    "description": "Tsukahara tucked with 1\u00bd twist (540\u00b0) off",
+    "vault_difficulty_value": 4.2,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 3,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Tsukahara Tucked 2/1",
+    "cop_number": 3.14,
+    "apparatus": "VT",
+    "description": "Tsukahara tucked with 2/1 twist (720\u00b0) off",
+    "vault_difficulty_value": 4.6,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 3,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Tsukahara Piked",
+    "cop_number": 3.2,
+    "apparatus": "VT",
+    "description": "Tsukahara piked",
+    "vault_difficulty_value": 3.4,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 3,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Tsukahara Layout",
+    "cop_number": 3.3,
+    "apparatus": "VT",
+    "description": "Tsukahara stretched",
+    "vault_difficulty_value": 3.8,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 3,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Tsukahara Layout 1/2",
+    "cop_number": 3.31,
+    "apparatus": "VT",
+    "description": "Tsukahara stretched with \u00bd twist (180\u00b0) off",
+    "vault_difficulty_value": 4.0,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 3,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Kim III",
+    "cop_number": 3.32,
+    "apparatus": "VT",
+    "description": "Tsukahara stretched with 1/1 twist (360\u00b0) off",
+    "vault_difficulty_value": 4.4,
+    "named_after_wag": [
+      {
+        "last_name": "Kim",
+        "first_name": "Nellie",
+        "federation": "USSR"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 3,
+    "discipline": "WAG",
+    "year_named": 1978.0
+  },
+  {
+    "name": "Tsukahara Layout 3/2",
+    "cop_number": 3.33,
+    "apparatus": "VT",
+    "description": "Tsukahara stretched with 1\u00bd twist (540\u00b0) off",
+    "vault_difficulty_value": 4.8,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 3,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Zamolodchikova",
+    "cop_number": 3.34,
+    "apparatus": "VT",
+    "description": "Tsukahara stretched with 2/1 twist (720\u00b0) off",
+    "vault_difficulty_value": 5.2,
+    "named_after_wag": [
+      {
+        "last_name": "Zamolodchikova",
+        "first_name": "Elena",
+        "federation": "RUS"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 3,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Tsukahara Layout 5/2",
+    "cop_number": 3.35,
+    "apparatus": "VT",
+    "description": "Tsukahara stretched with 2\u00bd twist (900\u00b0) off",
+    "vault_difficulty_value": 5.6,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 3,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Yurchenko",
+    "cop_number": 4.1,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac on \u2013 tucked salto bwd off",
+    "vault_difficulty_value": 3.0,
+    "named_after_wag": [
+      {
+        "last_name": "Yurchenko",
+        "first_name": "Natalia",
+        "federation": "USSR"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 4,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Yurchenko 1/2",
+    "cop_number": 4.11,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac on \u2013 tucked salto bwd with \u00bd twist (180\u00b0) off",
+    "vault_difficulty_value": 3.2,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 4,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Yurchenko 1/1",
+    "cop_number": 4.12,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac on - tucked salto bwd with 1/1 twist (360\u00b0) off",
+    "vault_difficulty_value": 3.6,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 4,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Yurchenko 3/2",
+    "cop_number": 4.13,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac on \u2013 tucked salto bwd with 1\u00bd twist (540\u00b0) off",
+    "vault_difficulty_value": 4.0,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 4,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Dungelova",
+    "cop_number": 4.14,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac on \u2013 tucked salto bwd with 2/1 twist (720\u00b0) off",
+    "vault_difficulty_value": 4.4,
+    "named_after_wag": [
+      {
+        "last_name": "Dungelova",
+        "first_name": "Erika",
+        "federation": "BUL"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 4,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Yurchenko Piked",
+    "cop_number": 4.2,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac on \u2013 piked salto bwd off",
+    "vault_difficulty_value": 3.2,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 4,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Yurchenko Layout",
+    "cop_number": 4.3,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac on \u2013 stretched salto bwd off",
+    "vault_difficulty_value": 3.6,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 4,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Yurchenko Layout 1/2",
+    "cop_number": 4.31,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac on \u2013 stretched salto bwd with \u00bd twist (180\u00b0) off",
+    "vault_difficulty_value": 3.8,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 4,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Yurchenko Layout 1/1",
+    "cop_number": 4.32,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac on \u2013 stretched salto bwd with 1/1 twist (360\u00b0) off",
+    "vault_difficulty_value": 4.2,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 4,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Yurchenko Layout 3/2",
+    "cop_number": 4.33,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac on \u2013 stretched salto bwd with 1\u00bd twist (540\u00b0) off",
+    "vault_difficulty_value": 4.6,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 4,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Baitova (DTY)",
+    "cop_number": 4.34,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac on \u2013 stretched salto bwd with 2/1 twist (720\u00b0) off",
+    "vault_difficulty_value": 5.0,
+    "named_after_wag": [
+      {
+        "last_name": "Baitova",
+        "first_name": "Svetlana",
+        "federation": "USSR"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 4,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Amanar",
+    "cop_number": 4.35,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac on \u2013stretched salto bwd with 2\u00bd twist (900\u00b0) off",
+    "vault_difficulty_value": 5.4,
+    "named_after_wag": [
+      {
+        "last_name": "Amanar",
+        "first_name": "Simona",
+        "federation": "ROU"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 4,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Luconi",
+    "cop_number": 4.4,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac with \u00be turn (270\u00b0) on \u2013 tucked salto bwd off",
+    "vault_difficulty_value": 3.6,
+    "named_after_wag": [
+      {
+        "last_name": "Patrizia",
+        "first_name": "Luconi",
+        "federation": "ITA"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 4,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Yurchenko 3/4-on Tucked 1/2",
+    "cop_number": 4.41,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac with \u00be turn (270\u00b0) on \u2013 tucked salto bwd with \u00bd twist (180\u00b0) off",
+    "vault_difficulty_value": 4.0,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 4,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Yurchenko 3/4-on Tucked 1/1",
+    "cop_number": 4.42,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac with \u00be turn (270\u00b0) on \u2013 tucked salto bwd with 1/1 twist (360\u00b0) off",
+    "vault_difficulty_value": 4.2,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 4,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Yurchenko 3/4-on Piked",
+    "cop_number": 4.5,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac \u00be turn (270\u00b0) on \u2013 piked salto bwd off",
+    "vault_difficulty_value": 3.8,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 4,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Yurchenko 3/4-on Layout",
+    "cop_number": 4.51,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac with \u00be turn (270\u00b0) on \u2013 stretched salto bwd off",
+    "vault_difficulty_value": 4.2,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 4,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Yurchenko 3/4-on Layout 1/2",
+    "cop_number": 4.52,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac with \u00be turn (270\u00b0) on \u2013 stretched salto bwd with \u00bd twist (180\u00b0) off",
+    "vault_difficulty_value": 4.6,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 4,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Yurchenko 3/4-on Layout 1/1",
+    "cop_number": 4.53,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac with \u00be turn (270\u00b0) on \u2013 stretched salto bwd with 1/1 twist (360\u00b0) off",
+    "vault_difficulty_value": 5.0,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 4,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Biles II (Yurchenko Double Pike)",
+    "cop_number": 0.0,
+    "apparatus": "VT",
+    "description": "Roud-off, flic-flac on \u2013 double piked salto bwd off",
+    "vault_difficulty_value": 6.4,
+    "named_after_wag": [
+      {
+        "last_name": "Biles",
+        "first_name": "Simone",
+        "federation": "USA"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 4,
+    "discipline": "WAG",
+    "year_named": 2023.0
+  },
+  {
+    "name": "Ivantcheva",
+    "cop_number": 5.1,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac with \u00bd turn (180\u00b0) on \u2013 tucked salto fwd off",
+    "vault_difficulty_value": 3.8,
+    "named_after_wag": [
+      {
+        "last_name": "Ivantcheva",
+        "first_name": "Velina",
+        "federation": "BUL"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 5,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Servente",
+    "cop_number": 5.11,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac with \u00bd turn (180\u00b0) on \u2013 tucked salto fwd with \u00bd twist (180\u00b0) off, also \u2013 \u00bd turn (180\u00b0) and tucked salto bwd off",
+    "vault_difficulty_value": 4.0,
+    "named_after_wag": [
+      {
+        "last_name": "Servente",
+        "first_name": "Veronica",
+        "federation": "ITA"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 5,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Round-off 1/2-on Tucked Forward 1/1",
+    "cop_number": 5.12,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac with \u00bd turn (180\u00b0) on \u2013 tucked salto fwd with 1/1 twist (360\u00b0) off",
+    "vault_difficulty_value": 4.4,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 5,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Khorkina",
+    "cop_number": 5.13,
+    "apparatus": "VT",
+    "description": "Round-off flic-flac with \u00bd turn (180\u00b0) on - tucked salto fwd with 1\u00bd twist (540\u00b0) off",
+    "vault_difficulty_value": 4.8,
+    "named_after_wag": [
+      {
+        "last_name": "Khorkina",
+        "first_name": "Svetlana",
+        "federation": "RUS"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 5,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Omelianchik",
+    "cop_number": 5.2,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac with \u00bd turn (180\u00b0) on \u2013 piked salto fwd off",
+    "vault_difficulty_value": 4.0,
+    "named_after_wag": [
+      {
+        "last_name": "Omelianchik",
+        "first_name": "Oksana",
+        "federation": "USSR"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 5,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Podkopayeva",
+    "cop_number": 5.21,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac with \u00bd turn (180\u00b0) on \u2013 piked salto fwd with \u00bd twist (180\u00b0) off, also \u2013 \u00bd turn (180\u00b0) and piked salto bwd off",
+    "vault_difficulty_value": 4.2,
+    "named_after_wag": [
+      {
+        "last_name": "Podkopayeva",
+        "first_name": "Lilia",
+        "federation": "UKR"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 5,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Round-off 1/2-on Piked Forward 1/1",
+    "cop_number": 5.22,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac with \u00bd turn (180\u00b0) on \u2013 piked salto fwd with 1/1 twist (360\u00b0) off",
+    "vault_difficulty_value": 4.6,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 5,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Round-off 1/2-on Front Layout",
+    "cop_number": 5.3,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac with \u00bd turn (180\u00b0) on \u2013 stretched salto fwd off",
+    "vault_difficulty_value": 4.6,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 5,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Round-off 1/2-on Front Layout 1/2",
+    "cop_number": 5.31,
+    "apparatus": "VT",
+    "description": "Round-off, flic-flac with \u00bd turn (180\u00b0) on \u2013 salto fwd stretched with \u00bd twist (180\u00b0) off",
+    "vault_difficulty_value": 4.8,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 5,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Round-off 1/2-on Front Layout 1/1",
+    "cop_number": 5.32,
+    "apparatus": "VT",
+    "description": "Round-off flic-flac with \u00bd turn (180\u00b0) on \u2013 stretched salto fwd with 1/1 twist (360\u00b0) off",
+    "vault_difficulty_value": 5.2,
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "group_number": 5,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Cheng",
+    "cop_number": 5.33,
+    "apparatus": "VT",
+    "description": "Round-off flic-flac with \u00bd turn (180\u00b0) on \u2013 stretched salto fwd with 1\u00bd twist (540\u00b0) off",
+    "vault_difficulty_value": 5.6,
+    "named_after_wag": [
+      {
+        "last_name": "Cheng",
+        "first_name": "Fei",
+        "federation": "CHN"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 5,
+    "discipline": "WAG",
+    "year_named": null
+  },
+  {
+    "name": "Biles I",
+    "cop_number": 5.34,
+    "apparatus": "VT",
+    "description": "Round off Flic-flac with \u00bd turn (180\u00b0) on \u2013 stretched salto fwd with 2/1 twist (720\u00b0) off",
+    "vault_difficulty_value": 6.0,
+    "named_after_wag": [
+      {
+        "last_name": "Biles",
+        "first_name": "Simone",
+        "federation": "USA"
+      }
+    ],
+    "named_after_mag": null,
+    "group_number": 5,
+    "discipline": "WAG",
+    "year_named": 2018.0
+  }
+]

@@ -1,0 +1,1944 @@
+[
+  {
+    "name": "Split Leap",
+    "cop_number": 1.101,
+    "apparatus": "FX",
+    "description": "Split leap fwd (leg separation 180\u00b0)",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Split Leap 1/2",
+    "cop_number": 1.201,
+    "apparatus": "FX",
+    "description": "Split leap with \u00bd turn (180\u00b0)",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Split Leap 1/1",
+    "cop_number": 1.301,
+    "apparatus": "FX",
+    "description": "Split leap with 1/1 turn (360\u00b0)",
+    "difficulty_value": "C",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Tour Jet\u00e9",
+    "cop_number": 1.202,
+    "apparatus": "FX",
+    "description": "Fouette Hop with leg change to cross split (leg separation 180\u00b0))",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Tour Jet\u00e9 Ring",
+    "cop_number": 1.202,
+    "apparatus": "FX",
+    "description": "Fouette Hop with leg change to cross split (leg separation 180\u00b0) also to ring position (tour jet\u00e9)",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Tour Jet\u00e9 1/2",
+    "cop_number": 1.302,
+    "apparatus": "FX",
+    "description": "Tour jet\u00e9 with additional \u00bd turn (180\u00b0), landing on one or both feet, or in split sit position",
+    "difficulty_value": "C",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Csillag",
+    "cop_number": 1.302,
+    "apparatus": "FX",
+    "description": "Leap fwd, through tour jet\u00e9 technique, with \u00be turn (270\u00b0) into straddle pike position with additional \u00bc turn (90\u00b0), landing on one or both feet",
+    "difficulty_value": "C",
+    "named_after_wag": [
+      {
+        "last_name": "Csillag",
+        "first_name": "Tunde",
+        "federation": "HUN"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": 2010.0,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Split Leap 3/2",
+    "cop_number": 1.402,
+    "apparatus": "FX",
+    "description": "Tour jet\u00e9 with additional 1/1 turn (360\u00b0), landing on one or both feet",
+    "difficulty_value": "D",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Tuck Jump to Split",
+    "cop_number": 1.103,
+    "apparatus": "FX",
+    "description": "Tuck jump with separation of legs to cross split (180\u00b0) during flight phase",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Butterfly",
+    "cop_number": 1.203,
+    "apparatus": "FX",
+    "description": "Butterfly fwd torso parallel to floor, slightly arched, legs straddled and feet above hip height or Butterfly bwd torso parallel to floor,\nslightly arched, legs straddled and\nfeet at or slightly below hip height\nduring flight.  during flight",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Split Side",
+    "cop_number": 1.104,
+    "apparatus": "FX",
+    "description": "Leap fwd with \u00bc turn (90\u00b0) into straddle pike position (both legs above horizontal) or side split to land on one or both feet",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Johnson",
+    "cop_number": 1.204,
+    "apparatus": "FX",
+    "description": "Switch leap with \u00bc turn (90\u00b0) to side split\nor to straddle pike position (both legs\nabove horizontal) ",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Frolova",
+    "cop_number": 1.304,
+    "apparatus": "FX",
+    "description": "Switch leap with \u00bd turn (180\u00b0) in flight phase",
+    "difficulty_value": "C",
+    "named_after_wag": [
+      {
+        "last_name": "Frolova",
+        "first_name": "Tatiana",
+        "federation": "USSR"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Johnson 1/2",
+    "cop_number": 1.304,
+    "apparatus": "FX",
+    "description": "Johnson with additional \u00bd turn (180\u00b0)",
+    "difficulty_value": "C",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Switch Leap 1/1",
+    "cop_number": 1.404,
+    "apparatus": "FX",
+    "description": "Switch leap with 1/1 turn (360\u00b0) in flight phase",
+    "difficulty_value": "D",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Bulimar",
+    "cop_number": 1.404,
+    "apparatus": "FX",
+    "description": "Johnson with additional 1/1 turn (360\u00b0)",
+    "difficulty_value": "D",
+    "named_after_wag": [
+      {
+        "last_name": "Bulimar",
+        "first_name": "Diana",
+        "federation": "ROU"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": 2011.0,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Switch Wolf",
+    "cop_number": 1.105,
+    "apparatus": "FX",
+    "description": "Stride leap fwd with change of legs to wolf position",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Switch Leap",
+    "cop_number": 1.205,
+    "apparatus": "FX",
+    "description": "Leap fwd with leg change (free leg swing to 45\u02da) to cross split (180\u00b0 separation < after leg change) (Switch leap)",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Switch Ring",
+    "cop_number": 1.305,
+    "apparatus": "FX",
+    "description": "Switch leap to ring position (180\u00b0 separation of legs)",
+    "difficulty_value": "C",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Sankova",
+    "cop_number": 1.405,
+    "apparatus": "FX",
+    "description": "Switch leap to ring position with \u00bd turn (180\u00b0)",
+    "difficulty_value": "D",
+    "named_after_wag": [
+      {
+        "last_name": "Sankova",
+        "first_name": "Krystyna",
+        "federation": "UKR"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": 2013.0,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Pike Jump",
+    "cop_number": 1.106,
+    "apparatus": "FX",
+    "description": "Pike jump (hip < 90\u00b0)",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Sheep Jump",
+    "cop_number": 1.206,
+    "apparatus": "FX",
+    "description": "Jump with upper back arch and head release with feet almost touching head (sheep jump)",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Pike Jump 1/1",
+    "cop_number": 1.306,
+    "apparatus": "FX",
+    "description": "Pike jump (hip < 90\u00b0) with 1/1 turn (360\u00b0)",
+    "difficulty_value": "C",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Straddle Jump",
+    "cop_number": 1.107,
+    "apparatus": "FX",
+    "description": "Straddle pike jump (both legs above horizontal), or side split jump (leg separation 180\u02da)",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Straddle Jump 1/2",
+    "cop_number": 1.207,
+    "apparatus": "FX",
+    "description": "Straddle pike or side split jump with \u00bd turn (180\u00b0)",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Split Jump 1/2",
+    "cop_number": 1.207,
+    "apparatus": "FX",
+    "description": "Split Jump with \u00bd turn (180\u00b0)",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Popa",
+    "cop_number": 1.307,
+    "apparatus": "FX",
+    "description": "Straddle pike or side split jump with 1/1 turn (360\u00b0)",
+    "difficulty_value": "C",
+    "named_after_wag": [
+      {
+        "last_name": "Popa",
+        "first_name": "Celestina",
+        "federation": "ROU"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Split Jump 1/1",
+    "cop_number": 1.307,
+    "apparatus": "FX",
+    "description": "Split Jump with 1/1 turn (360\u00b0)",
+    "difficulty_value": "C",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Straddle Jump 3/2",
+    "cop_number": 1.407,
+    "apparatus": "FX",
+    "description": "Straddle pike or side split jump with 1\u00bd turn (540\u00b0)",
+    "difficulty_value": "D",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Split Jump 3/2",
+    "cop_number": 1.407,
+    "apparatus": "FX",
+    "description": "Split Jump with 1\u00bd turn (540\u00b0)",
+    "difficulty_value": "D",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Shushunova",
+    "cop_number": 1.108,
+    "apparatus": "FX",
+    "description": "Straddle pike (both legs above horizontal), or side split jump landing in front lying support",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Shushunova 1/2",
+    "cop_number": 1.108,
+    "apparatus": "FX",
+    "description": "Straddle pike (both legs above horizontal), or side split jump landing in front lying support (also with \u00bd turn (180\u00b0)",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "1/1 Hop to Shushunova",
+    "cop_number": 1.108,
+    "apparatus": "FX",
+    "description": "Hop with 1/1 turn (360\u00b0) to straddle and land in front lying support",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Shushunova 1/1",
+    "cop_number": 1.208,
+    "apparatus": "FX",
+    "description": "Straddle pike (both legs above horizontal), or side split jump with 1/1 turn (360\u00b0) landing in front lying support",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "3/2 Hop to Support",
+    "cop_number": 1.208,
+    "apparatus": "FX",
+    "description": "Hop with 1\u00bd turn (540\u00b0) in horizontal plane to land in front lying support",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Split Jump",
+    "cop_number": 1.109,
+    "apparatus": "FX",
+    "description": "Split jump (leg separation 180\u00b0)",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Stag Jump",
+    "cop_number": 1.109,
+    "apparatus": "FX",
+    "description": "Stag jump",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Stag Jump 1/2",
+    "cop_number": 1.109,
+    "apparatus": "FX",
+    "description": "Stag jump with \u00bd turn (180\u00b0)",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Sissone",
+    "cop_number": 1.109,
+    "apparatus": "FX",
+    "description": "Sissone (leg separation 180\u00b0on the diagonal/45\u00b0to the floor) take off two feet, land on one foot",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Ring Jump",
+    "cop_number": 1.209,
+    "apparatus": "FX",
+    "description": "Ring jump (rear foot at head height, body arched and head dropped bwd, 180\u00b0 separation of legs)",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Stag Ring Jump",
+    "cop_number": 1.209,
+    "apparatus": "FX",
+    "description": "Stag ring jump (rear foot at head height, body arched and head dropped bwd)",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Split Ring Jump",
+    "cop_number": 1.209,
+    "apparatus": "FX",
+    "description": "Split jump to ring position (180\u00b0 separation of legs)",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Vulcan",
+    "cop_number": 1.209,
+    "apparatus": "FX",
+    "description": "Split jump to ring position with \u00bd turn (180\u02da)",
+    "difficulty_value": "B",
+    "named_after_wag": [
+      {
+        "last_name": "Vulcan",
+        "first_name": "Dora",
+        "federation": "ROU"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": 2016.0,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Split Ring Leap",
+    "cop_number": 1.309,
+    "apparatus": "FX",
+    "description": "Split ring leap (180\u00b0 separation of legs)",
+    "difficulty_value": "C",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Ferrari",
+    "cop_number": 1.409,
+    "apparatus": "FX",
+    "description": "Tour jet\u00e9, to ring position with additional \u00bd turn (180\u00b0)",
+    "difficulty_value": "D",
+    "named_after_wag": [
+      {
+        "last_name": "Ferrari",
+        "first_name": "Vanessa",
+        "federation": "ITA"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": 2012.0,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Jurkowska-Kowalska",
+    "cop_number": 1.409,
+    "apparatus": "FX",
+    "description": "Split jump to ring position with 1/1 turn (360\u00b0) ",
+    "difficulty_value": "D",
+    "named_after_wag": [
+      {
+        "last_name": "Jurkowska-Kowalska",
+        "first_name": "Katarzyna",
+        "federation": "POL"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": 2014.0,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Ting",
+    "cop_number": 1.409,
+    "apparatus": "FX",
+    "description": "Split leap to ring position with \u00bd turn (180\u00b0)",
+    "difficulty_value": "D",
+    "named_after_wag": [
+      {
+        "last_name": "Ting",
+        "first_name": "Hua-Tien",
+        "federation": "TPE"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": 2019.0,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Straight Jump 1/1",
+    "cop_number": 1.11,
+    "apparatus": "FX",
+    "description": "Stretched hop or jump with 1/1 turn (360\u00b0)",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Straight Jump 2/1",
+    "cop_number": 1.31,
+    "apparatus": "FX",
+    "description": "Stretched hop or jump with 2/1 turn (720\u00b0)",
+    "difficulty_value": "C",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Cat Leap",
+    "cop_number": 1.111,
+    "apparatus": "FX",
+    "description": "Leap with alternate leg change (knees above horizontal) (Cat leap)",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Cat Leap 1/1",
+    "cop_number": 1.211,
+    "apparatus": "FX",
+    "description": "Cat leap with 1/1 turn (360\u00ba)",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Cat Leap 2/1",
+    "cop_number": 1.311,
+    "apparatus": "FX",
+    "description": "Cat leap with 2/1 turn (720\u00b0)",
+    "difficulty_value": "C",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Fouett\u00e8-hop",
+    "cop_number": 1.112,
+    "apparatus": "FX",
+    "description": "Hop with \u00bd (180\u02da) turn to land in arabesque with free leg above horizontal (Fouett\u00e8-hop)",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "L-hop 1/2",
+    "cop_number": 1.212,
+    "apparatus": "FX",
+    "description": "Hop with \u00bd turn (180\u00b0) free leg extended above horizontal throughout",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "L-hop 1/1",
+    "cop_number": 1.312,
+    "apparatus": "FX",
+    "description": "Hop with 1/1 turn (360\u00b0), free leg extended above horizontal throughout",
+    "difficulty_value": "C",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Tuck Jump 1/1",
+    "cop_number": 1.213,
+    "apparatus": "FX",
+    "description": "Tuck hop or jump with 1/1 turn (360\u00ba)",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Tuck Jump 2/1",
+    "cop_number": 1.313,
+    "apparatus": "FX",
+    "description": "Tuck hop or jump with 2/1 turn (720\u00b0)",
+    "difficulty_value": "C",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Tuck Jump 2/1 to Support",
+    "cop_number": 1.313,
+    "apparatus": "FX",
+    "description": "Tuck hop or jump with 2/1 turn (720\u00b0) also landing in front lying support",
+    "difficulty_value": "C",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Wolf Jump",
+    "cop_number": 1.114,
+    "apparatus": "FX",
+    "description": "Hop or Jump with one leg bent and the other \u2013 extended straight, fwd above horizontal with knees together (Wolf hop or jump)",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Wolf Jump 1/1",
+    "cop_number": 1.214,
+    "apparatus": "FX",
+    "description": "Wolf hop or jump with 1/1 turn (360\u00b0)",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Wolf Jump 1/1 to Support",
+    "cop_number": 1.214,
+    "apparatus": "FX",
+    "description": "Wolf hop or jump with 1/1 turn (360\u00b0) landing in front lying support",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Wolf Jump 2/1",
+    "cop_number": 1.514,
+    "apparatus": "FX",
+    "description": "Wolf hop or jump with 2/1 turn (720\u00b0)",
+    "difficulty_value": "E",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 1,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Full Turn",
+    "cop_number": 2.101,
+    "apparatus": "FX",
+    "description": "1/1 turn (360\u00b0) on one leg \u2013 free leg optional below horizontal",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 2,
+    "discipline": "WAG"
+  },
+  {
+    "name": "2/1 Turn",
+    "cop_number": 2.201,
+    "apparatus": "FX",
+    "description": "2/1 turn (720\u00b0) on one leg \u2013 free leg optional below horizontal",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 2,
+    "discipline": "WAG"
+  },
+  {
+    "name": "3/1 Turn",
+    "cop_number": 2.301,
+    "apparatus": "FX",
+    "description": "3/1 turn (1080\u00b0) on one leg \u2013 free leg optional below horizontal",
+    "difficulty_value": "C",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 2,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Gomez",
+    "cop_number": 2.501,
+    "apparatus": "FX",
+    "description": "4/1 turn (1440\u00b0) on one leg \u2013 free leg optional below horizontal",
+    "difficulty_value": "E",
+    "named_after_wag": [
+      {
+        "last_name": "Gomez",
+        "first_name": "Elena",
+        "federation": "ESP"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 2,
+    "discipline": "WAG"
+  },
+  {
+    "name": "L-turn",
+    "cop_number": 2.202,
+    "apparatus": "FX",
+    "description": "1/1 turn (360\u00b0) with heel of extended free leg fwd at horizontal throughout turn (support leg may be straight or bent)",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 2,
+    "discipline": "WAG"
+  },
+  {
+    "name": "2/1 L-turn",
+    "cop_number": 2.401,
+    "apparatus": "FX",
+    "description": "2/1 turn (720\u00b0) with heel of extended free leg fwd at horizontal throughout turn (support leg may be straight or bent)",
+    "difficulty_value": "D",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 2,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Y-turn",
+    "cop_number": 2.203,
+    "apparatus": "FX",
+    "description": "1/1 turn (360\u00b0) with free leg held upward in 180\u00b0 split position throughout turn",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 2,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Memmel",
+    "cop_number": 2.403,
+    "apparatus": "FX",
+    "description": "2/1 turn (720\u00b0) with free leg held upward in 180\u00b0 split position throughout turn",
+    "difficulty_value": "D",
+    "named_after_wag": [
+      {
+        "last_name": "Memmel",
+        "first_name": "Chellsie",
+        "federation": "USA"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 2,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Mustafina",
+    "cop_number": 2.503,
+    "apparatus": "FX",
+    "description": "3/1 turn (1080) with free leg held upward in 180\u00b0 split position throughout turn",
+    "difficulty_value": "E",
+    "named_after_wag": [
+      {
+        "last_name": "Mustafina",
+        "first_name": "Aliya",
+        "federation": "RUS"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": 2014.0,
+    "group_number": 2,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Attitude Turn",
+    "cop_number": 2.204,
+    "apparatus": "FX",
+    "description": "1/1 turn (360\u00b0) in back attitude (knee of free leg at horizontal throughout turn)",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 2,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Semenova",
+    "cop_number": 2.404,
+    "apparatus": "FX",
+    "description": "2/1 turn (720\u00b0) in back attitude (knee of free leg at horizontal throughout turn)",
+    "difficulty_value": "D",
+    "named_after_wag": [
+      {
+        "last_name": "Semenova",
+        "first_name": "Ksenija",
+        "federation": "RUS"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 2,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Berar",
+    "cop_number": 2.404,
+    "apparatus": "FX",
+    "description": "2/1 turn (720\u00b0) with free leg held with both hands bwd/upward throughout turn",
+    "difficulty_value": "D",
+    "named_after_wag": [
+      {
+        "last_name": "Berar",
+        "first_name": "Iulia",
+        "federation": "ROU"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": 2018.0,
+    "group_number": 2,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Scale Turn",
+    "cop_number": 2.205,
+    "apparatus": "FX",
+    "description": "1/1 turn (360\u00b0) in scale fwd with free leg above horizontal throughout turn",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 2,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Illusion Turn",
+    "cop_number": 2.206,
+    "apparatus": "FX",
+    "description": "1/1 illusion turn (360\u00b0) through standing",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 2,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Wolf Turn",
+    "cop_number": 2.207,
+    "apparatus": "FX",
+    "description": "1/1 turn (360\u00b0) in tuck stand on one leg - free leg straight throughout turn",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 2,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Nguyen",
+    "cop_number": 2.307,
+    "apparatus": "FX",
+    "description": "2/1 (720\u00b0) pirouette starting with free leg at horizontal, lowering to complete the turn in wolf position",
+    "difficulty_value": "C",
+    "named_after_wag": [
+      {
+        "last_name": "Nguyen",
+        "first_name": "Tienna K",
+        "federation": "VIE"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": 2018.0,
+    "group_number": 2,
+    "discipline": "WAG"
+  },
+  {
+    "name": "2/1 Wolf Turn",
+    "cop_number": 2.407,
+    "apparatus": "FX",
+    "description": "2/1 turn (720\u00b0) in tuck stand on one leg - free leg straight throughout turn (no turn initiation with a push from hands on floor)",
+    "difficulty_value": "D",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 2,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Mitchell",
+    "cop_number": 2.507,
+    "apparatus": "FX",
+    "description": "3/1 turn (1080\u00b0) in tuck stand on one leg - free leg straight throughout turn (no turn initiation with a push from hands on floor)",
+    "difficulty_value": "E",
+    "named_after_wag": [
+      {
+        "last_name": "Mitchell",
+        "first_name": "Lauren",
+        "federation": "AUS"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": 2010.0,
+    "group_number": 2,
+    "discipline": "WAG"
+  },
+  {
+    "name": "2/1 Back Spin",
+    "cop_number": 2.208,
+    "apparatus": "FX",
+    "description": "2/1 spin (720\u00b0) or more on back in kip position (hip-leg < closed)",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 2,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Handstand",
+    "cop_number": 3.101,
+    "apparatus": "FX",
+    "description": "Jump kick or press to hstd \u2013 return movement optional ",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 3,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Handstand 1/2",
+    "cop_number": 3.101,
+    "apparatus": "FX",
+    "description": "Jump kick or press to hstd \u2013 return movement optional, also with \u00bd turn (180\u00b0) in hstd",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 3,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Handstand 1/1",
+    "cop_number": 3.101,
+    "apparatus": "FX",
+    "description": "Jump kick or press to hstd \u2013 return movement optional, also with 1/1 turn (360\u00b0) in hstd",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 3,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Handstand 3/2 - 2/1",
+    "cop_number": 3.201,
+    "apparatus": "FX",
+    "description": "Jump kick or press to hstd with 1\u00bd - 2/1 turn (540\u00b0- 720\u00b0) in hstd \u2013 return movement optional",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 3,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Dive Roll",
+    "cop_number": 3.102,
+    "apparatus": "FX",
+    "description": "Hecht roll",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 3,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Back Extension Roll 1/2-1/1",
+    "cop_number": 3.103,
+    "apparatus": "FX",
+    "description": "Roll bwd to hstd with \u00bd or 1/1 turn (180\u00b0 - 360\u00b0) in hstd",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 3,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Back Extension Roll 3/2-2/1",
+    "cop_number": 3.203,
+    "apparatus": "FX",
+    "description": "Roll bwd to hstd with 1\u00bd - 2/1 (540\u00b0 - 720\u00b0) turn in hstd",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 3,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Valdez 1/1",
+    "cop_number": 3.104,
+    "apparatus": "FX",
+    "description": "Walkover bwd from stand or extended tuck-sit to hstd with 1/1 turn (360\u00b0) in hstd \u2013 return movement optional",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 3,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Back Walkover 1/1",
+    "cop_number": 3.104,
+    "apparatus": "FX",
+    "description": "Walkover bwd from stand or extended tuck-sit to hstd with 1/1 turn (360\u00b0) in hstd \u2013 return movement optional",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 3,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Front Handspring",
+    "cop_number": 3.105,
+    "apparatus": "FX",
+    "description": "Handspring fwd, take-off from one leg or Flyspring fwd, take-off from both legs \u2013 with or without hecht phase before hand support \u2013 landing optional",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 3,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Back Handspring 1/2",
+    "cop_number": 3.105,
+    "apparatus": "FX",
+    "description": "Jump bwd with \u00bd twist (180\u00b0) to handspring fwd \u2013 landing optional",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 3,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Mostepanova",
+    "cop_number": 3.305,
+    "apparatus": "FX",
+    "description": "Handspring fwd with 1/1 twist (360\u00b0) after hand support or before",
+    "difficulty_value": "C",
+    "named_after_wag": [
+      {
+        "last_name": "Mostepanova",
+        "first_name": "Olga",
+        "federation": "USSR"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Round-off",
+    "cop_number": 3.106,
+    "apparatus": "FX",
+    "description": "Round-off",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Back Handspring",
+    "cop_number": 3.107,
+    "apparatus": "FX",
+    "description": "All flic-flac and gainer flic-flac variations, also with support of one arm",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Tsavdaridou",
+    "cop_number": 3.107,
+    "apparatus": "FX",
+    "description": "Arabian (bwd take-off) with \u00bc twist (90\u00b0) \u2013 free (aerial) cartwheel \u2013 continuing with \u00bc twist (90\u00b0) to front lying support",
+    "difficulty_value": "A",
+    "named_after_wag": [
+      {
+        "last_name": "Tsavdaridou",
+        "first_name": "Vasiliki",
+        "federation": "GRE"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Back Handspring 1/1",
+    "cop_number": 3.207,
+    "apparatus": "FX",
+    "description": "Flic-flac with 1/1 twist (360\u00b0) before hand support",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Front Tuck",
+    "cop_number": 4.101,
+    "apparatus": "FX",
+    "description": "Salto fwd tucked",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Front Pike",
+    "cop_number": 4.101,
+    "apparatus": "FX",
+    "description": "Salto fwd piked",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Front Tuck/Pike 1/2",
+    "cop_number": 4.201,
+    "apparatus": "FX",
+    "description": "Salto fwd tucked with \u00bd (180\u00b0), also Salto fwd piked with \u00bd twist (180\u00b0)",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Front Tuck 1/1",
+    "cop_number": 4.201,
+    "apparatus": "FX",
+    "description": "Salto fwd tucked with 1/1 twist (360\u00b0)",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Podkopayeva I ",
+    "cop_number": 4.501,
+    "apparatus": "FX",
+    "description": "Double salto fwd tucked",
+    "difficulty_value": "E",
+    "named_after_wag": [
+      {
+        "last_name": "Podkopayeva",
+        "first_name": "Lilia",
+        "federation": "UKR"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Podkopayeva II",
+    "cop_number": 4.601,
+    "apparatus": "FX",
+    "description": "Double salto fwd tucked with \u00bd twist (180\u00b0) (",
+    "difficulty_value": "F",
+    "named_after_wag": [
+      {
+        "last_name": "Podkopayeva",
+        "first_name": "Lilia",
+        "federation": "UKR"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Dowell",
+    "cop_number": 4.601,
+    "apparatus": "FX",
+    "description": "Double salto fwd piked",
+    "difficulty_value": "F",
+    "named_after_wag": [
+      {
+        "last_name": "Dowell",
+        "first_name": "Brenna",
+        "federation": "USA"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": 2015.0,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Front Layout",
+    "cop_number": 4.202,
+    "apparatus": "FX",
+    "description": "Salto fwd stretched",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Front Layout 1/2",
+    "cop_number": 4.202,
+    "apparatus": "FX",
+    "description": "Salto fwd stretched, also with \u00bd twist (180\u00b0)",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Front Layout 1/1",
+    "cop_number": 4.302,
+    "apparatus": "FX",
+    "description": "Salto fwd stretched with 1/1 twist (360\u00b0)",
+    "difficulty_value": "C",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Front Layout 3/2",
+    "cop_number": 4.302,
+    "apparatus": "FX",
+    "description": "Salto fwd stretched with 1\u00bd twist (540\u00b0)",
+    "difficulty_value": "C",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Tarasevich (Front Layout 2/1)",
+    "cop_number": 4.402,
+    "apparatus": "FX",
+    "description": "Salto fwd stretched with 2/1 twist (720\u00b0)",
+    "difficulty_value": "D",
+    "named_after_wag": [
+      {
+        "last_name": "Tarasevich",
+        "first_name": "Svetlana",
+        "federation": "BLR"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Cojocar (Front Layout 5/2)",
+    "cop_number": 4.502,
+    "apparatus": "FX",
+    "description": "Salto fwd stretched with 2\u00bd twist (900\u00b0)",
+    "difficulty_value": "E",
+    "named_after_wag": [
+      {
+        "last_name": "Cojocar",
+        "first_name": "Sabina",
+        "federation": "ROU"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Maldonado (Front Layout 3/1)",
+    "cop_number": 4.602,
+    "apparatus": "FX",
+    "description": "Salto fwd stretched with 3/1 twist (1080\u00b0)",
+    "difficulty_value": "F",
+    "named_after_wag": [
+      {
+        "last_name": "Maldonado",
+        "first_name": "Andrea",
+        "federation": "PUR"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": 2019.0,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Front Aerial",
+    "cop_number": 4.103,
+    "apparatus": "FX",
+    "description": "Free (aerial) walkover fwd",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Side Aerial",
+    "cop_number": 4.104,
+    "apparatus": "FX",
+    "description": "Free (aerial) cartwheel",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Barani",
+    "cop_number": 4.104,
+    "apparatus": "FX",
+    "description": "Free (aerial) round-off",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Side Somi",
+    "cop_number": 4.105,
+    "apparatus": "FX",
+    "description": "From take-off fwd from one or both legs \u2013 salto swd tucked or piked",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Arabian",
+    "cop_number": 4.205,
+    "apparatus": "FX",
+    "description": "Arabian salto tucked or piked, (take-off bwd with \u00bd twist [180\u00b0], salto fwd) \u2013 landing optional",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Andreasen / Jentsch (Double Arabian)",
+    "cop_number": 4.505,
+    "apparatus": "FX",
+    "description": "Arabian double salto tucked",
+    "difficulty_value": "E",
+    "named_after_wag": [
+      {
+        "last_name": "Andreasen",
+        "first_name": "Charlotte",
+        "federation": "DEN"
+      },
+      {
+        "last_name": "Jentsch",
+        "first_name": "Martina",
+        "federation": "DDR"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Double Arabian 1/2",
+    "cop_number": 4.505,
+    "apparatus": "FX",
+    "description": "Arabian double salto tucked with \u00bd twist (180\u00b0)",
+    "difficulty_value": "E",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Dos Santos I",
+    "cop_number": 4.605,
+    "apparatus": "FX",
+    "description": "Arabian double salto piked",
+    "difficulty_value": "F",
+    "named_after_wag": [
+      {
+        "last_name": "Dos Santos",
+        "first_name": "Daiane",
+        "federation": "BRA"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Oliveira",
+    "cop_number": 4.605,
+    "apparatus": "FX",
+    "description": "Arabian double salto piked, also with \u00bd twist",
+    "difficulty_value": "F",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Dos Santos II",
+    "cop_number": 4.805,
+    "apparatus": "FX",
+    "description": "Arabian double salto stretched",
+    "difficulty_value": "H",
+    "named_after_wag": [
+      {
+        "last_name": "Dos Santos",
+        "first_name": "Daiane",
+        "federation": "BRA"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 4,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Back Tuck",
+    "cop_number": 5.101,
+    "apparatus": "FX",
+    "description": "Salto bwd tucked",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 5,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Back Pike",
+    "cop_number": 5.101,
+    "apparatus": "FX",
+    "description": "Salto bwd piked",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 5,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Back Layout",
+    "cop_number": 5.101,
+    "apparatus": "FX",
+    "description": "Salto bwd stretched",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 5,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Back Layout 1/2",
+    "cop_number": 5.201,
+    "apparatus": "FX",
+    "description": "Salto bwd stretched with \u00bd",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 5,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Back Tuck 1/1",
+    "cop_number": 5.201,
+    "apparatus": "FX",
+    "description": "Salto bwd tucked with 1/1 twist (360\u00b0)",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 5,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Back Layout 1/1",
+    "cop_number": 5.201,
+    "apparatus": "FX",
+    "description": "Salto bwd stretched with 1/1 twist (360\u00b0)",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 5,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Back Layout 3/2",
+    "cop_number": 5.301,
+    "apparatus": "FX",
+    "description": "Salto bwd stretched with 1\u00bd twist (540\u00b0)",
+    "difficulty_value": "C",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 5,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Back Layout 2/1",
+    "cop_number": 5.301,
+    "apparatus": "FX",
+    "description": "Salto bwd stretched with 2/1 twist (720\u00b0)",
+    "difficulty_value": "C",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 5,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Back Layout 5/2",
+    "cop_number": 5.401,
+    "apparatus": "FX",
+    "description": "Salto bwd stretched with 2\u00bd twist (900\u00b0)",
+    "difficulty_value": "D",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 5,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Back Layout 3/1",
+    "cop_number": 5.501,
+    "apparatus": "FX",
+    "description": "Salto bwd stretched with 3/1 twist (1080\u00b0)",
+    "difficulty_value": "E",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 5,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Back Layout 7/2",
+    "cop_number": 5.601,
+    "apparatus": "FX",
+    "description": "Salto bwd stre",
+    "difficulty_value": "F",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 5,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Double Back Tuck (Kim)",
+    "cop_number": 5.402,
+    "apparatus": "FX",
+    "description": "Double salto bwd tucked",
+    "difficulty_value": "D",
+    "named_after_wag": [
+      {
+        "last_name": "Kim",
+        "first_name": "Nellie",
+        "federation": "USSR"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": 1976.0,
+    "group_number": 5,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Double Back Pike",
+    "cop_number": 5.402,
+    "apparatus": "FX",
+    "description": "Double salto bwd pike",
+    "difficulty_value": "D",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 5,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Mukhina",
+    "cop_number": 5.502,
+    "apparatus": "FX",
+    "description": "Double salto bwd tucked or piked with 1/1 twist (360\u00b0)",
+    "difficulty_value": "E",
+    "named_after_wag": [
+      {
+        "last_name": "Mukhina",
+        "first_name": "Elena",
+        "federation": "USSR"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 5,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Silivas (Double-double)",
+    "cop_number": 5.802,
+    "apparatus": "FX",
+    "description": "Double salto bwd tucked with 2/1 twist (720\u00b0)",
+    "difficulty_value": "H",
+    "named_after_wag": [
+      {
+        "last_name": "Silivas",
+        "first_name": "Silivas",
+        "federation": "ROU"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 5,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Biles II",
+    "cop_number": 5.1002,
+    "apparatus": "FX",
+    "description": "Double salto bwd tucked with 3/1 twist (1080\u00b0)",
+    "difficulty_value": "J",
+    "named_after_wag": [
+      {
+        "last_name": "Biles",
+        "first_name": "Simone",
+        "federation": "USA"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": 2019.0,
+    "group_number": 5,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Double Back Layout",
+    "cop_number": 5.603,
+    "apparatus": "FX",
+    "description": "Double salto bwd stretched",
+    "difficulty_value": "F",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 5,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Biles I ",
+    "cop_number": 5.703,
+    "apparatus": "FX",
+    "description": "Double Salto bwd stretched with \u00bd twist (180\u00b0)",
+    "difficulty_value": "G",
+    "named_after_wag": [
+      {
+        "last_name": "Biles",
+        "first_name": "Simone",
+        "federation": "USA"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": 2013.0,
+    "group_number": 5,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Chusovitina / Touzhikova",
+    "cop_number": 5.803,
+    "apparatus": "FX",
+    "description": "Double salto bwd stretched with 1/1 twist (360\u00b0)",
+    "difficulty_value": "H",
+    "named_after_wag": [
+      {
+        "last_name": "Chusovitina",
+        "first_name": "Oksana",
+        "federation": "UZB"
+      },
+      {
+        "last_name": "Touzhikova",
+        "first_name": "Tatiana",
+        "federation": "USSR"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 5,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Moors",
+    "cop_number": 5.903,
+    "apparatus": "FX",
+    "description": "Double Salto bwd stretched with 2/1 twist (720\u00b0)",
+    "difficulty_value": "I",
+    "named_after_wag": [
+      {
+        "last_name": "Moors",
+        "first_name": "Victoria",
+        "federation": "CAN"
+      }
+    ],
+    "named_after_mag": null,
+    "year_named": 2013.0,
+    "group_number": 5,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Whip bwd",
+    "cop_number": 5.104,
+    "apparatus": "FX",
+    "description": "Whip salto bwd",
+    "difficulty_value": "A",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 5,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Whip bwd 1/2",
+    "cop_number": 5.204,
+    "apparatus": "FX",
+    "description": "Whip salto bwd with \u00bd twist (180\u00b0)",
+    "difficulty_value": "B",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 5,
+    "discipline": "WAG"
+  },
+  {
+    "name": "Whip bwd 1/1",
+    "cop_number": 5.304,
+    "apparatus": "FX",
+    "description": "Whip salto bwd with 1/1 twist (360\u00b0)",
+    "difficulty_value": "C",
+    "named_after_wag": null,
+    "named_after_mag": null,
+    "year_named": null,
+    "group_number": 5,
+    "discipline": "WAG"
+  }
+]

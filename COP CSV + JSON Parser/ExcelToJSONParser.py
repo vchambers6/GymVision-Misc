@@ -4,7 +4,7 @@ import json
 
 
 
-excel_data_frame = pandas.read_excel('WAG_2022-2024_COP.xlsx', sheet_name='UB')
+excel_data_frame = pandas.read_excel('WAG_2022-2024_COP.xlsx', sheet_name='BB') #MARK: Change apparatus here
 
 def parse_named_after(value):
     try:
@@ -30,5 +30,5 @@ for obj in json_objects:
     parsed_json_objects.append(data)
 
 
-with open('output-UB.json', 'w') as file:
+with open('output-BB.json', 'w') as file: #MARK: Change apparatus here
     json.dump(parsed_json_objects, file, indent=2)
